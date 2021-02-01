@@ -8,7 +8,7 @@
 
 Maybe was one of the first game engines for the public. **DIV Games Studio** is a complete solution to develop games for **MS-DOS** and published in 1997 (DIV1) and 1998 (DIV2). 
 
-Is a full windows graphic environment with tools for creation and editing 2D graphics (with a complete drawing suit), particle FX, character animations, font character sets, sounds effects and a complete language programming with a sintax between **Pascal** and **C**, including an integrated debugger and a full complete documentation with a lot of tutorials and samples. 
+Is a full windows graphic environment with tools for creation and editing 2D graphics (with a complete drawing suit), particle FX, character animations, font character sets, sounds effects and a complete language programming with a syntax between **Pascal** and **C**, including an integrated debugger and a full complete documentation with a lot of tutorials and samples. 
 
 This engine allow to develop common 2D games with a full of advanced graphic features, and pseudo 3D games using the [Mode7](https://en.wikipedia.org/wiki/Mode_7) and later, with DIV2, the Mode8 (3D feature like the original Doom).
 
