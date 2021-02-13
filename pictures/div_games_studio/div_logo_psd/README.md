@@ -1,7 +1,7 @@
 # DIV Games Studio 2 logo recreation
 ###### By José Miguel Sánchez Fernández
 
-[![Creative Commons BY](https://img.shields.io/badge/Creative%20Commons-BY-green?logo=Creative%20Commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 This folder contains the **PSD** file and the **fonts** used to recreate the original **DIV Games Studio 2** logo.
 
