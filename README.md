@@ -4,6 +4,6 @@
 Visual Studio EX3 / Home
 </h1>
 
-## Home repository that contains common resources shared between repostories, recomended links and other useful resources.
+## Home repository that contains common resources shared between repositories, recomended links and other useful resources.
 
 ###### Work in progress...
